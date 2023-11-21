@@ -1,0 +1,38 @@
+body{
+    background-image: url(shellfish-3062011_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 2200px 1200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#body2{
+    background-image: url(storm-5949243_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 1500px;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#body3{
+    background-image: url(quarta_fundo1.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 1200px;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#body4{
+    background-image: url(vento_forte.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+#body5{
+    background-image: url(tempestade.png);
+    background-repeat: no-repeat;
+    background-size: 2100px 1500px;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;  
+}
